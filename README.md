@@ -28,6 +28,7 @@ $ npm start
 ```
 $ npm build
 ```
+Note: The folder *locales* must be copied with the content of dist for publish.
 
 ## Authors
 
