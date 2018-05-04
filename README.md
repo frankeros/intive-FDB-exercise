@@ -33,6 +33,14 @@ http:\\localhost:8080\<lng>
 ```
 The values can be "en" for ENGLISH, "es" for SPANISH and "pt" for PORTUGUESE.
 
+## Revisited page with auth
+
+To see the Revisited page you must add this query string with this exac value to the url:
+```
+http:\\localhost:8080?auth_key=auth123456789
+```
+Otherwise you will be redirected to Unauthorized page.
+
 ## Development
 
 ```
