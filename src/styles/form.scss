@@ -1,0 +1,21 @@
+@import './constants';
+
+form{
+  text-align: left !important;
+  label{
+    color: $font-blue;
+  }
+  .button-container{
+    text-align: right; 
+    button{
+      color: $font-blue;
+      border-color: $font-blue;
+    }
+  }
+  .error{    
+    text-align: center;    
+    .alert{
+      margin-bottom: 0px !important;
+    }
+  }
+}

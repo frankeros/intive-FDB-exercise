@@ -1,0 +1,23 @@
+@import "./form";
+@import "./list";
+@import "./label";
+@import './constants';
+
+body {
+  background-color: #EDEDED;  
+}
+
+.header, .footer {
+  text-align: center;
+  padding: 20px;
+  color: $font-blue;
+}
+
+.content {
+  float: none;
+  margin: 0 auto;
+}
+
+.alert {
+  text-align: center;
+}

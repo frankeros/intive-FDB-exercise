@@ -1,0 +1,28 @@
+{
+  "Name": "Name",
+  "Surename": "Surename",
+  "Birthday": "Birthday",
+  "name here": "name here",
+  "Country": "Country",
+  "Save": "Save",
+  "You must complete all form": "You must complete all form",
+  "SelectedUserMessage": "Hello <1>{{user}}</1> from <3>{{user}}</3>. On next <5>{{day}}</5> of <7>{{month}}</7> you will have <9>{{years}}</9>.",
+  "select a country": "select a country",
+  "January": "January",
+  "February": "February",
+  "March": "March",
+  "April": "April",
+  "May": "May",
+  "June": "June",
+  "July": "July",
+  "August": "August",
+  "September": "September",
+  "October": "October",
+  "November": "November",
+  "December": "December",
+  "Unauthorized, go back to": "Unauthorized, go back to",
+  "Go to old entries" : "Go to old entries",
+  "Go back to Home": "Go back to Home",
+  "Created by":"Created by"  
+
+}

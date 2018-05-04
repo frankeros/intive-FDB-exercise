@@ -1,0 +1,49 @@
+{
+  "name": "intive-FDB-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "babel-preset-stage-2": "^6.24.1",
+    "history": "^4.7.2",
+    "i18next": "^11.2.3",
+    "i18next-browser-languagedetector": "^2.2.0",
+    "i18next-xhr-backend": "^1.5.1",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "query-string": "^6.1.0",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.3.2",
+    "react-i18next": "^7.6.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0"
+  }
+}
