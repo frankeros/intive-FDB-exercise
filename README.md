@@ -16,6 +16,22 @@ npm 5.6.0
 ```
 $ npm install
 ```
+### Testing
+
+## Add new user
+
+When new user is add, it's show in the lists of entries at Home page and Revisited page.
+The list at Home page show the new entries from current session. This list is cleared when session is finished.
+The list at Revisited page show the all entries stored in localStorage. This list can be cleared clearing the localStorage.
+The rows on both list can be selected and show his data in the message panel.
+
+## Language
+
+The language can be changed using this path:
+```
+http:\\localhost:8080\<lng>
+```
+The values can be "en" for ENGLISH, "es" for SPANISH and "pt" for PORTUGUESE.
 
 ## Development
 
